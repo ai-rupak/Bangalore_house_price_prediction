@@ -1,0 +1,1 @@
+sqft = request.form.get('total_sqft')
